@@ -146,45 +146,6 @@ As I build more projects, I'll use GitHub's pinned repositories to highlight the
 
 
 
-# 📦 GitHub Overview
-
-<p align="center">
-
-<a href="https://github.com/sahilrana-dx?tab=repositories">
-  <img src="https://img.shields.io/github/repo-size/sahilrana-dx?style=for-the-badge&label=Profile%20Repositories" alt="Repositories">
-</a>
-
-<a href="https://github.com/sahilrana-dx?tab=stars">
-  <img src="https://img.shields.io/github/stars/sahilrana-dx?style=for-the-badge&label=Stars" alt="Stars">
-</a>
-
-<a href="https://github.com/sahilrana-dx">
-  <img src="https://img.shields.io/github/followers/sahilrana-dx?style=for-the-badge&label=Followers" alt="Followers">
-</a>
-
-</p>
-
-> GitHub statistics and activity cards update dynamically based on my public GitHub activity.
-
----
-
-# 💡 What I'm Improving
-
-| Area               | My Focus                                        |
-| ------------------ | ----------------------------------------------- |
-| 🌐 Web Development | Building responsive and user-friendly websites  |
-| ⚡ JavaScript       | Strengthening fundamentals and practical usage  |
-| 🧠 Problem Solving | Learning how to approach programming problems   |
-| 🔧 Git & GitHub    | Version control and better project workflows    |
-| 📚 DSA             | Building stronger programming fundamentals      |
-| 🎨 UI              | Creating cleaner and more responsive interfaces |
-| 🚀 Projects        | Turning learning into real applications         |
-
----
-
-
-
----
 
 # 🧠 My Developer Mindset
 
