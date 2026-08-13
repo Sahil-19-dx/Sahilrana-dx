@@ -239,7 +239,7 @@ Grow 🚀
 </p>
 
 <p align="center">
-  <b>GitHub</b> • <b>LinkedIn</b> • <b>Instagram</b> • <b>LeetCode</b> • <b>Email</b>
+ • <b>Instagram</b> • <b>Email</b>
 </p>
 
 ---
