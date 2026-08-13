@@ -177,22 +177,8 @@ Grow 🚀
 
 <p align="center">
 
-<!-- GitHub -->
 
-<a href="https://github.com/sahilrana-dx" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-    alt="GitHub"
-    height="40"
-    width="50"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- LinkedIn -->
-
-<a href="https://linkedin.com/in/sahil" target="_blank">
-  <img
+  
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="LinkedIn"
     height="40"
@@ -205,26 +191,8 @@ Grow 🚀
 
 <a href="https://instagram.com/sahilzz.z" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="Instagram"
-    height="40"
-    width="50"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- LeetCode -->
-
-<a href="https://leetcode.com/sahhil781_zz" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="LeetCode"
-    height="40"
-    width="50"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
+    
+    
 <!-- Email -->
 
 <a href="mailto:sahilrana716zz@gmail.com">
