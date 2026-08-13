@@ -196,7 +196,7 @@ Grow 🚀
 </p>
 
 <p align="center">
- • <b>Instagram</b> • <b>Email</b>
+ • <b>Email</b>
 </p>
 
 ---
@@ -204,11 +204,11 @@ Grow 🚀
 # 📚 Currently Learning
 
 ```text
-HTML             ████████████████████
-CSS              ██████████████████░░
-JavaScript       ████████████░░░░░░░░
-Git & GitHub     ███████████████░░░░░
-DSA              ████████░░░░░░░░░░░░
+HTML             █████████
+CSS              █████
+JavaScript       ████
+Git & GitHub     ███░░░░░
+DSA              ██░░░░░░░░░░░░
 React            ░░░░░░░░░░░░░░░░░░░░
 Backend          ░░░░░░░░░░░░░░░░░░░░
 ```
