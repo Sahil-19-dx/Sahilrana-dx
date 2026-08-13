@@ -179,18 +179,7 @@ Grow 🚀
 
 
   
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="40"
-    width="50"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Instagram -->
-
-<a href="https://instagram.com/sahilzz.z" target="_blank">
-  <img
+  
     
     
 <!-- Email -->
